@@ -201,3 +201,4 @@ for out in output:
         out_file.write(' '.join(out))
         out_file.write('\n')
 out_file.write('0')
+quit(0)
