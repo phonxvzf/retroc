@@ -1,4 +1,10 @@
 #!/usr/bin/python3
+
+"""
+Retro Basic Compiler
+Author: Phon Chitnelawong
+"""
+
 import sys
 import string
 
